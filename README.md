@@ -1,3 +1,3 @@
 # Morse-code-decoder
-This project helps to decode morse code and count the frequency of the occurence of each characters. Please see user document 
-for assistance. 
+This project decode morse code and analyse the frequency of the occurence of character, word and type of english sentence.
+Please see user document for assistance. 
