@@ -1,3 +1,6 @@
 # Morse-code-decoder
-This project decode morse code and analyse the frequency of the occurence of character, word and type of english sentence.
+
+Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes or dits and dahs. Morse code is named for Samuel Morse, an inventor of the telegraph.
+
+In this project, it will decode morse code and analyse the frequency of the occurence of character, word and type of english sentence. Dot will be represented by 0 and dash will be represented by 1.
 Please see user document for assistance. 
