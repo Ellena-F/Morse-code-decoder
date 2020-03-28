@@ -1,6 +1,6 @@
 # Morse-code-decoder
 
-Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes or dits and dahs. Morse code is named for Samuel Morse, an inventor of the telegraph.
+Morse code is a method used in telecommunication to encode text characters as standardised sequences of two different signal durations, called dots and dashes or dots and dash. Morse code is named for Samuel Morse, an inventor of the telegraph.
 
 ![screenshot](/morsecode.png?raw=true "Optional Title")
 
